@@ -1,2 +1,2 @@
 # inputField
-Input field I created
+A simple input field I created.
